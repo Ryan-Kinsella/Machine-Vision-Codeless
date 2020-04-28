@@ -1,5 +1,5 @@
 # Machine-Vision-Codeless
-### *Due to the course content being reused, the code associated will be not be included in this repository. If you'd like to view the code, please request access to view as a colaborator in my other repository, Ryan-Kinsella/Machine-Vision.*
+### *Due to the course content being reused, the code associated will be not be included in this repository for plagarism purposes. If you'd like to view the code, please request access to view as a colaborator in my other code repository, Ryan-Kinsella/Machine-Vision.*
 
 ## (ELEC 474) Machine Vision using C++ and linked library OpenCV to solve image recognition/filtering problems. 
 *Each cpp file has int main() and all files should be excluded from the build besides the one you're wanting to run.*
